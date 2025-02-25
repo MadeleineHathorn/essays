@@ -14,10 +14,19 @@ Iago manipulates Othello to believe that Desdemona is cheating with Cassio.
 > And makes me poor indeed.</br>
 
 
-</p {style="border:2x dashed green; padding 5x"}
+<section class="section1">
+    <p style="border:1px dashed crimson; padding 5px"}>
+        <body>
+        <p font-family: "verdana";           
+*Iago reveals how he believes Othello has hurt him, and explains his choice of revenge.*</p>
+</section>
 
-commentary </p>
 
+
+<section class="section1">
+    <p style="border:1px dashed crimson; padding 5px"}>
+         </p>
+</section>
 
 **OTHELLO:**    {By heaven}, I’ll know thy thoughts. </br>
 
