@@ -56,9 +56,11 @@ Matching thy inference. ’Tis not to make me jealous</br>
 To say my wife is fair, feeds well, loves company,</br>
 Is free of speech, sings, plays, and dances well.</br>
 Where virtue is, these are more virtuous.</br>
-Nor from mine own weak merits will I draw</br>
+Nor from **mine own weak merits** will I draw</br>
 The smallest fear or doubt of her revolt,</br>
 For she had eyes, and chose me. No, Iago,</br>
 I’ll see before I doubt; when I doubt, prove;</br>
 And on the proof, there is no more but this:</br>
 Away at once with love or jealousy.
+
+.ve-media wc:Lunar_phases_al-Biruni.jpg
