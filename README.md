@@ -1,5 +1,5 @@
-# Othello Act 3 Scene 3
-Iago manipulates Othello to believe that Desdemona is cheating with Cassio. 
+# <span style="font-family:Zapfino;"> Othello Act 3 Scene 3 </span>
+_Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
 >**IAGO:** </br>
@@ -16,9 +16,7 @@ Iago manipulates Othello to believe that Desdemona is cheating with Cassio.
 
 <section class="section1">
     <p style="border:1px dashed crimson; padding 5px"}>
-        <body>
-        <p font-family: "verdana";           
-*Iago reveals how he believes Othello has hurt him, and explains his choice of revenge.*</p>
+        <p style="font-family:times new roman";}> Iago reveals how he believes Othello has hurt him, and explains his choice of revenge. * </p>
 </section>
 
 
@@ -37,11 +35,11 @@ Nor shall not, whilst ’tis in my custody.</br>
 
 **OTHELLO:** </br>
 Ha?</br>
-
-**IAGO:**          O, beware, my lord, of jealousy!</br>
+.ve-media wc.Skull_and_Crossbones_Flag.png right
+**IAGO:**       <span style="background:LawnGreen;">  O, beware, my lord, of jealousy! [^1] </br>
 It is the green-eyed monster which doth mock</br>
-The meat it feeds on. That cuckold lives in bliss</br>
-Who, certain of his fate, loves not his wronger;</br>
+The meat it feeds on. </span>  That ==cuckold=={Q1483612} lives in bliss</br>
+Who, certain of his fate, loves not his wronger;  </br>
 But O, what damnèd minutes tells he o’er</br>
 Who dotes, yet doubts; suspects, yet strongly loves!</br>
 
@@ -53,7 +51,7 @@ But riches fineless is as poor as winter</br>
 To him that ever fears he shall be poor.</br>
 Good God, the souls of all my tribe defend</br>
 From jealousy!</br>
-
+.ve-media wc:Lunar_phases_al-Biruni.jpg right
 **OTHELLO:**  Why, why is this?</br>
 Think’st thou I’d make a life of jealousy,</br>
 To follow still the changes of the moon</br>
@@ -72,4 +70,5 @@ I’ll see before I doubt; when I doubt, prove;</br>
 And on the proof, there is no more but this:</br>
 Away at once with love or jealousy.
 
-.ve-media wc:Lunar_phases_al-Biruni.jpg
+
+[^1]: Hutchings, John. “Folklore and Symbolism of Green.” Folklore, vol. 108, 1997, pp. 55–63. JSTOR, http://www.jstor.org/stable/1260708. Accessed 26 Feb. 2025. </br> - refers to green as poison
