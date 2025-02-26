@@ -1,4 +1,4 @@
-# <span style="font-family:Zapfino;"> Othello Act 3 Scene 3 </span>
+# <span style="font-family:Zapfino;"> <span style="alignment:center;"> Othello Act 3 Scene 3 </span> </span>
 _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
@@ -14,17 +14,12 @@ _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 > And makes me poor indeed.</br>
 
 
-<section class="section1">
-    <p style="border:1px dashed crimson; padding 5px"}>
-        <p style="font-family:times new roman";}> Iago reveals how he believes Othello has hurt him, and explains his choice of revenge. * </p>
-</section>
+
+ <p style="border:1px dashed crimson; padding:5px"><span style="font-family:times new roman">Iago reveals how he believes Othello has hurt him, and explains his choice of revenge. </span></p>
 
 
 
-<section class="section1">
-    <p style="border:1px dashed crimson; padding 5px"}>
-         </p>
-</section>
+
 
 **OTHELLO:**    {By heaven}, I’ll know thy thoughts. </br>
 
