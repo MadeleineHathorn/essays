@@ -1,5 +1,8 @@
+<p style="background:linear-gradient(to bottom, #ff0000 5%, #006600 100%); font-family:Zapfino; alignment:center; text:white">
+Othello Act 3 Scene 3 </p>
 # <span style="font-family:Zapfino; alignment:center;"> Othello Act 3 Scene 3  </span>
-_Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
+
+<span style="font-family:times new roman;"> _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
 >**IAGO:** </br>
@@ -19,8 +22,6 @@ _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
 
-
-
 >**OTHELLO:**    {By heaven}, I’ll know thy thoughts. </br>
 
 
@@ -30,7 +31,7 @@ Nor shall not, whilst ’tis in my custody.</br>
 
 >**OTHELLO:** </br>
 Ha?</br>
-.ve-media wc.Skull_and_Crossbones_Flag.png right
+
 >**IAGO:**       <span style="background:LawnGreen;">  O, beware, my lord, of jealousy! [^1] </br>
 It is the green-eyed monster which doth mock</br>
 The meat it feeds on. </span>  That ==cuckold=={Q1483612} lives in bliss</br>
@@ -65,5 +66,6 @@ I’ll see before I doubt; when I doubt, prove;</br>
 And on the proof, there is no more but this:</br>
 Away at once with love or jealousy.
 
-
+<p style="background:linear-gradient(to bottom, #ff0000 5%, #006600 100%);">
+ </p>
 [^1]: Hutchings, John. “Folklore and Symbolism of Green.” Folklore, vol. 108, 1997, pp. 55–63. JSTOR, http://www.jstor.org/stable/1260708. Accessed 26 Feb. 2025. </br> - refers to green as poison
