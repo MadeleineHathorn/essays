@@ -1,4 +1,4 @@
-# <span style="font-family:Zapfino;"> <span style="alignment:center;"> Othello Act 3 Scene 3 </span> </span>
+# <span style="font-family:Zapfino; alignment:center;"> Othello Act 3 Scene 3  </span>
 _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
@@ -21,33 +21,33 @@ _Iago manipulates Othello to believe that Desdemona is cheating with Cassio._
 
 
 
-**OTHELLO:**    {By heaven}, I’ll know thy thoughts. </br>
+>**OTHELLO:**    {By heaven}, I’ll know thy thoughts. </br>
 
 
-**IAGO:** </br>
+>**IAGO:** </br>
 You cannot, if my heart were in your hand,</br>
 Nor shall not, whilst ’tis in my custody.</br>
 
-**OTHELLO:** </br>
+>**OTHELLO:** </br>
 Ha?</br>
 .ve-media wc.Skull_and_Crossbones_Flag.png right
-**IAGO:**       <span style="background:LawnGreen;">  O, beware, my lord, of jealousy! [^1] </br>
+>**IAGO:**       <span style="background:LawnGreen;">  O, beware, my lord, of jealousy! [^1] </br>
 It is the green-eyed monster which doth mock</br>
 The meat it feeds on. </span>  That ==cuckold=={Q1483612} lives in bliss</br>
 Who, certain of his fate, loves not his wronger;  </br>
 But O, what damnèd minutes tells he o’er</br>
 Who dotes, yet doubts; suspects, yet strongly loves!</br>
 
-**OTHELLO:**       O misery! </br>
+>**OTHELLO:**       O misery! </br>
 
-**IAGO:** </br>
+>**IAGO:** </br>
 Poor and content is rich, and rich enough;</br>
 But riches fineless is as poor as winter</br>
 To him that ever fears he shall be poor.</br>
 Good God, the souls of all my tribe defend</br>
 From jealousy!</br>
 .ve-media wc:Lunar_phases_al-Biruni.jpg right
-**OTHELLO:**  Why, why is this?</br>
+>**OTHELLO:**  Why, why is this?</br>
 Think’st thou I’d make a life of jealousy,</br>
 To follow still the changes of the moon</br>
 With fresh suspicions? No. To be once in doubt</br>
