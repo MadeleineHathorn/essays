@@ -68,7 +68,7 @@ I’ll see before I doubt; when I doubt, prove;</br>
 And on the proof, there is no more but this:</br>
 Away at once with love or jealousy.
 
- <p style="border:1px dashed crimson; padding:5px"><span style="font-family:times new roman"> Othello reveals his stubborness, therefore how easily Iago can wave . </span></p>
+ <p style="border:1px dashed crimson; padding:5px"><span style="font-family:times new roman"> Othello reveals his stubborness, showcasing how easily Iago can subvert it to block out the possibility of Desdemona's innocence. </span></p>
 
 <p style="background:linear-gradient(to bottom, #ff0000 5%, #006600 100%);">
  </p>
