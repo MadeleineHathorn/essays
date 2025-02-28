@@ -56,7 +56,7 @@ To follow still the changes of the moon</br>
 With fresh suspicions? No. To be once in doubt</br>
 Is once to be resolved. Exchange me for a goat</br>
 When I shall turn the business of my soul</br>
-To such exsufflicate and blown surmises,</br>
+To such [exsufflicate and blown](https://www.collinsdictionary.com/us/dictionary/english/extant-species) surmises,</br>
 Matching thy inference. ’Tis not to make me jealous</br>
 To say my wife is fair, feeds well, loves company,</br>
 Is free of speech, sings, plays, and dances well.</br>
