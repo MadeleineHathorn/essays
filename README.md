@@ -36,18 +36,20 @@ Ha?</br>
 It is the green-eyed monster which doth mock</br>
 The meat it feeds on. </span>  That ==cuckold=={Q1483612} lives in bliss</br>
 Who, certain of his fate, loves not his wronger;  </br>
-But O, what damnèd minutes tells he o’er</br>
-Who dotes, yet doubts; suspects, yet strongly loves!</br>
+>*But O, what damnèd minutes tells he o’er</br>
+Who dotes, yet doubts; suspects, yet strongly loves!*</br>
+
+ <p style="border:1px dashed crimson; padding:5px"><span style="font-family:times new roman">The other hurtful part of jealousy is the one who knows about infidelity but doesn't say anything, simply waiting instead of confronting. </span></p>
 
 >**OTHELLO:**       O misery! </br>
 
 >**IAGO:** </br>
-Poor and content is rich, and rich enough;</br>
-But riches fineless is as poor as winter</br>
-To him that ever fears he shall be poor.</br>
+Poor and content is rich, and rich enough; [^2] </br>
+But <span style="background:#b6e1fc;"> riches fineless is as poor as winter </br>
+To him that ever fears he shall be poor. </span> </br>
 Good God, the souls of all my tribe defend</br>
 From jealousy!</br>
-.ve-media wc:Lunar_phases_al-Biruni.jpg right
+>.ve-media wc:Lunar_phases_al-Biruni.jpg right
 >**OTHELLO:**  Why, why is this?</br>
 Think’st thou I’d make a life of jealousy,</br>
 To follow still the changes of the moon</br>
@@ -59,13 +61,16 @@ Matching thy inference. ’Tis not to make me jealous</br>
 To say my wife is fair, feeds well, loves company,</br>
 Is free of speech, sings, plays, and dances well.</br>
 Where virtue is, these are more virtuous.</br>
-Nor from **mine own weak merits** will I draw</br>
+Nor **from mine own weak merits will I draw**</br>
 The smallest fear or doubt of her revolt,</br>
 For she had eyes, and chose me. No, Iago,</br>
 I’ll see before I doubt; when I doubt, prove;</br>
 And on the proof, there is no more but this:</br>
 Away at once with love or jealousy.
 
+ <p style="border:1px dashed crimson; padding:5px"><span style="font-family:times new roman"> Othello reveals his stubborness, therefore how easily Iago can wave . </span></p>
+
 <p style="background:linear-gradient(to bottom, #ff0000 5%, #006600 100%);">
  </p>
-[^1]: Hutchings, John. “Folklore and Symbolism of Green.” Folklore, vol. 108, 1997, pp. 55–63. JSTOR, http://www.jstor.org/stable/1260708. Accessed 26 Feb. 2025. </br> - refers to green as poison
+[^1]: Hutchings, John. “Folklore and Symbolism of Green.” Folklore, vol. 108, 1997, pp. 55–63. JSTOR, http://www.jstor.org/stable/1260708. Accessed 26 Feb. 2025. </br> - refers to green as poison: 
+[^2]: someone who has nothing to lose
